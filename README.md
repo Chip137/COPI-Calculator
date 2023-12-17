@@ -1,0 +1,1 @@
+This is a very quickly, and UNTESTED calculator for profits for COPI File Nodes. Please be aware that this code may have errors and therefore may not be an accurate representation of actual profits. Please let me know if you spot any errors in the code or logic which I can resolve!
